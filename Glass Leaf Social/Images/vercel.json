@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "glass leaf.png"
+      "destination": "/glass leaf.png"
     }
   ]
 }
